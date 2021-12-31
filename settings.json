@@ -1,3 +1,16 @@
+
+  "editor.tokenColorCustomizations": {
+    "variables": "#f78c6c",
+    "textMateRules": [
+      {
+        "scope": "variable.other.property",
+      "settings": {
+        "foreground": "#fff"
+       }
+      },
+    ]
+  },
+
 {
     "tabnine.experimentalAutoImports": true,
     "workbench.colorTheme": "Material Deep Ocean",
